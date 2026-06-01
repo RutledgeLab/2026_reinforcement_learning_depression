@@ -25,7 +25,6 @@
 Two steps:
 1. run_lap_model_learning_combined_block(model_name, version_data)
 2. run_hbi_model_learning_combined_block(model_name, version_data)
-note:
 - model_name: must run "RL_outcome_initSmall_combined" first to generate inverse temperature for the following two models
   - "RL_outcome_initSmall_combined"
   - "RL_outcomeSmall_initSmall_distSmall_combined"
@@ -39,7 +38,6 @@ note:
 Two steps:
 1. run_lap_model_happiness_rating_combined_block(model_name, version_data)
 2. run_hbi_model_happiness_rating_combined_block(model_name, version_data)
-note:
 - model_name: must run the learning model "RL_outcomeSmall_initSmall_distSmall_combined" first to generate trial-by-trial V and PE
   - "happy_p_ppe_hbiRL_distSmall_combined"
 - version_data:
