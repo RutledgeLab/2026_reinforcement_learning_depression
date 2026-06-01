@@ -46,6 +46,6 @@ Two steps:
   - "depression_monthly_remote"
 
 ### Summary and figures
-- run "group_combined_behavior_summary" section by section to show different results
+- run "group_combined_behavior_summary" section by section to show the results
 
 
