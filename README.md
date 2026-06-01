@@ -17,7 +17,7 @@
 - **fig_setting_default**: default setting file for figures
 
 ## System requirements
-- MATLAB (tested on R2020b) (https://www.mathworks.com/)
+- MATLAB (tested on R2020b) (https://www.mathworks.com/) (installation time: <1 hour)
   - Optimization Toolbox
   - Statistics and Machine Learning Toolbox
   - HBI toolbox (https://doi.org/10.1371/journal.pcbi.1007043) for model fitting
