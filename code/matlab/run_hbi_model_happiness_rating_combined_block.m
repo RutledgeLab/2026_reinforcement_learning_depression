@@ -1,19 +1,12 @@
-function run_hbi_model_happiness_rating_combined_block(model_name, happiness_type, version_data, list_block)
+function run_hbi_model_happiness_rating_combined_block(model_name, version_data, list_block)
 
 % add path
 addpath('../cbm-master/codes');
 
 % happiness_type
-if nargin<2
-    happiness_type = 'raw';
-end
+happiness_type = 'raw';
 
-% versoin_data
 if nargin<3
-    version_data = '';
-end
-
-if nargin<4
     list_block = [];
 end
 

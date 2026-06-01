@@ -4,9 +4,6 @@ function run_lap_model_learning_combined_block(model_name, version_data, list_bl
 addpath('../cbm-master/codes');
 
 % versoin_data
-if nargin<2
-    version_data = '';
-end
 fprintf('%s\n',version_data);
 
 if nargin<3
