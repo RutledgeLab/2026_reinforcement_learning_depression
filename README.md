@@ -18,7 +18,9 @@
 
 ## System requirements
 - MATLAB (tested on R2020b) (https://www.mathworks.com/)
-- HBI toolbox (https://doi.org/10.1371/journal.pcbi.1007043) for model fitting
+  - Optimization Toolbox
+  - Statistics and Machine Learning Toolbox
+  - HBI toolbox (https://doi.org/10.1371/journal.pcbi.1007043) for model fitting
 
 ## Instruction for use
 ### Computational models of learning
